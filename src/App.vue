@@ -1,8 +1,8 @@
 <template>
   <div :class="{ 'dark': isDarkMode }" class="w-full h-full">
     <ThemeToggleButton />
-    <Loader :loading="!loading" />
-    <RouterView v-show="loading" />
+    <Loader :loading="loading" />
+    <RouterView v-show="!loading" />
     <ScrollToTop />
   </div>
 </template>
