@@ -7,11 +7,11 @@
                 <div class="flex sm:flex-row flex-col items-center space-x-4">
                     <div class="flex items-center space-x-2">
                         <phone />
-                        <p class="font-manjari font-normal text-sm text-m_gray-200 dark:text-white">+993 12 96-49-97</p>
+                        <p class="font-manjari font-normal text-sm text-m_gray-200 dark:text-white">+993 12 34-56-78</p>
                     </div>
                     <div class="flex items-center space-x-2">
                         <mail />
-                        <p class="font-manjari font-normal text-sm text-m_gray-200 dark:text-white">mail@logistics.tm </p>
+                        <p class="font-manjari font-normal text-sm text-m_gray-200 dark:text-white">aygytlygocum@gmail.com </p>
                     </div>
                     <div class="flex items-center space-x-2">
                         <pin />
@@ -116,11 +116,11 @@
                 <div class="flex flex-col items-start space-y-4 py-6">
                     <div class="flex items-center space-x-2">
                         <phone />
-                        <p class="font-sf_pro font-normal text-sm text-black dark:text-white">+993 12 96-49-97</p>
+                        <p class="font-sf_pro font-normal text-sm text-black dark:text-white">+993 12 34-56-78</p>
                     </div>
                     <div class="flex items-center space-x-2">
                         <mail />
-                        <p class="font-sf_pro font-normal text-sm text-black dark:text-white">mail@logistics.tm </p>
+                        <p class="font-sf_pro font-normal text-sm text-black dark:text-white">aygytlygocum@gmail.com</p>
                     </div>
                     <div class="flex items-center space-x-2">
                         <pin />

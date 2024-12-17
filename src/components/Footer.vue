@@ -10,7 +10,7 @@
                     </router-link>
                     <p
                         class="sm:w-96 w-full font-sf_pro font-normal lg:text-base sm:text-sm text-xs lg:text-start text-center text-black dark:text-white my-10">
-                        Türkmen Milli Logistik – {{ $t('footer.title1') }}
+                        Aýgytly göçüm – {{ $t('footer.title1') }}
                     </p>
                     <!-- Social links -->
                     <div class="flex items-center space-x-2">
@@ -76,7 +76,7 @@
                                 <div class="flex flex-col space-y-1">
                                     <h4 class="font-poppins font-medium lg:text-sm text-xs text-black dark:text-white">{{
                             $t('footer.title3') }}</h4>
-                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">+993 12 96-49-97</p>
+                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">+993 12 34-56-78</p>
                                 </div>
                             </div>
                             <div class="flex items-center space-x-4">
@@ -86,7 +86,7 @@
                                 <div class="flex flex-col space-y-1">
                                     <h4 class="font-poppins font-medium lg:text-sm text-xs text-black dark:text-white">{{
                             $t('footer.title4') }}</h4>
-                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">example@gmail.com</p>
+                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">aygytlygocum@gmail.com</p>
                                 </div>
                             </div>
                             <div class="flex items-center space-x-4">
