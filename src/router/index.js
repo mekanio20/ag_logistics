@@ -23,11 +23,6 @@ const router = createRouter({
       name: "Contact",
       component: () => import("@/views/Contact.vue"),
     },
-    {
-      path: "/test",
-      name: "Test",
-      component: () => import("@/views/test.vue"),
-    },
   ],
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
