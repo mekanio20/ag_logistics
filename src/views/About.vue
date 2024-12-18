@@ -72,9 +72,49 @@
                     </div>
                 </div>
             </div>
+            <!-- What We Do -->
+            <div class="bg-gray-100 dark:bg-[#1E1E1E]">
+                <div class="min-h-screen text-black-100 dark:text-gray-100 pt-20 pb-10 container">
+                    <!-- Content -->
+                    <h1 class="text-3xl font-bold mb-6 text-center">
+                        {{ $t('home.title37') }}
+                    </h1>
+                    <p class="text-base md:text-lg mb-8 text-center max-w-prose mx-auto">
+                        {{ $t('home.title38') }}
+                    </p>
+
+                    <div class="flex flex-col space-y-8">
+                        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
+                            <h2 class="text-xl font-semibold mb-2">
+                                {{ $t('home.title39') }}
+                            </h2>
+                            <p class="text-sm md:text-base">
+                                {{ $t('home.title40') }}
+                            </p>
+                        </div>
+                        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
+                            <h2 class="text-xl font-semibold mb-2">
+                                {{ $t('home.title41') }}
+                            </h2>
+                            <p class="text-sm md:text-base">
+                                {{ $t('home.title42') }}
+                            </p>
+                        </div>
+                        <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6">
+                            <h2 class="text-xl font-semibold mb-2">
+                                {{ $t('home.title43') }}
+                            </h2>
+                            <p class="text-sm md:text-base">
+                                {{ $t('home.title44') }}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- Core values -->
             <div class="w-full py-20 dark:bg-m_black-100">
-                <h2 class="font-poppins font-semibold text-m_black-100 dark:text-white text-center lg:text-3xl text-2xl pb-20">
+                <h2
+                    class="font-poppins font-semibold text-m_black-100 dark:text-white text-center lg:text-3xl text-2xl pb-20">
                     {{ $t('about.title2') }}
                 </h2>
                 <div class="flex flex-wrap justify-center gap-10">
@@ -102,10 +142,10 @@
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path
                                     d="M13 1.625L3.25 4.875V14.625C3.25 20.0104 7.61465 24.375 13 24.375C18.3854 24.375 22.75 20.0104 22.75 14.625V4.875L13 1.625ZM20.9219 14.625C20.9219 18.9998 17.3748 22.5469 13 22.5469C8.6252 22.5469 5.07812 18.9998 5.07812 14.625V6.24609L13 3.45312L20.9219 6.24609V14.625Z"
-                                    class="fill-white group-hover:fill-m_blue-100" />
+                                    class="fill-black group-hover:fill-m_blue-100" />
                                 <path
                                     d="M9.60778 12.0631C9.52306 11.978 9.42236 11.9104 9.31147 11.8644C9.20058 11.8183 9.08168 11.7946 8.96159 11.7946C8.8415 11.7946 8.7226 11.8183 8.61171 11.8644C8.50082 11.9104 8.40012 11.978 8.3154 12.0631C8.23029 12.1478 8.16276 12.2485 8.11668 12.3594C8.0706 12.4703 8.04688 12.5892 8.04688 12.7093C8.04688 12.8294 8.0706 12.9483 8.11668 13.0592C8.16276 13.1701 8.23029 13.2707 8.3154 13.3555L11.6009 16.641L11.6543 16.6943C11.7344 16.7746 11.8296 16.8383 11.9344 16.8818C12.0392 16.9252 12.1515 16.9476 12.2649 16.9476C12.3783 16.9476 12.4907 16.9252 12.5955 16.8818C12.7002 16.8383 12.7954 16.7746 12.8756 16.6943L18.5504 11.0195C18.6306 10.9394 18.6943 10.8442 18.7378 10.7394C18.7813 10.6346 18.8036 10.5223 18.8036 10.4089C18.8036 10.2955 18.7813 10.1831 18.7378 10.0783C18.6943 9.97356 18.6306 9.87838 18.5504 9.79824L18.4793 9.72715C18.3991 9.64686 18.3039 9.58317 18.1992 9.53971C18.0944 9.49625 17.9821 9.47388 17.8686 9.47388C17.7552 9.47388 17.6429 9.49625 17.5381 9.53971C17.4333 9.58317 17.3381 9.64686 17.258 9.72715L12.2636 14.7189L9.60778 12.0631Z"
-                                    class="fill-white group-hover:fill-m_blue-100" />
+                                    class="fill-black group-hover:fill-m_blue-100" />
                             </svg>
                         </div>
                         <p

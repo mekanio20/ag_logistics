@@ -76,7 +76,7 @@
                                 <div class="flex flex-col space-y-1">
                                     <h4 class="font-poppins font-medium lg:text-sm text-xs text-black dark:text-white">{{
                             $t('footer.title3') }}</h4>
-                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">+993 12 34-56-78</p>
+                                    <a href="tel:+99365801094" class="font-sf_pro font-normal text-xs text-m_gray-200">+993 65 80-10-94</a>
                                 </div>
                             </div>
                             <div class="flex items-center space-x-4">
@@ -86,7 +86,7 @@
                                 <div class="flex flex-col space-y-1">
                                     <h4 class="font-poppins font-medium lg:text-sm text-xs text-black dark:text-white">{{
                             $t('footer.title4') }}</h4>
-                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">aygytlygocum@gmail.com</p>
+                                    <a href="mailto:aygytlygocum@gmail.com" class="font-manjari font-normal text-xs text-m_gray-200 dark:text-white">aygytlygocum@gmail.com</a>
                                 </div>
                             </div>
                             <div class="flex items-center space-x-4">
@@ -96,8 +96,7 @@
                                 <div class="flex flex-col space-y-1">
                                     <h4 class="font-poppins font-medium lg:text-sm text-xs text-black dark:text-white">{{
                                         $t('footer.title5') }}</h4>
-                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">744000, Ashgabat,
-                                        Seyitnazar Seydi 70/2</p>
+                                    <p class="font-sf_pro font-normal text-xs text-m_gray-200">Aşgabat şäheri, Berkararlyk etraby, 2109 (A.Muhammedow) köçe, 80</p>
                                 </div>
                             </div>
                         </div>

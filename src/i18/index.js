@@ -57,6 +57,18 @@ const messages = {
       title34: "Chemical industry (sulfur, urea, polypropylene)",
       title35: "Textiles",
       title36: "Food products",
+      title37: "What do we do?",
+      title38:
+        "Our company is your trusted partner in the world of logistics. We provide comprehensive services to ensure the smooth completion of all stages of customs clearance and transportation.",
+      title39: "1. Customs Clearance — Simplicity in Details",
+      title40:
+        "We understand how challenging it can be to navigate the complexities of customs procedures. That’s why we take care of all the tasks related to customs clearance—from document preparation to communication with customs authorities. You can rest assured that your cargo will be processed quickly, legally, and cost-effectively.",
+      title41: "2. Declaration — Precision and Professionalism",
+      title42:
+        "A customs declaration is a key component of successful logistics. We ensure not only the accurate preparation of all necessary documents but also their timely submission. With our expertise, you can avoid unnecessary questions from customs officials and minimize potential risks.",
+      title43: "3. Export Customs Processing — Seamless Export",
+      title44:
+        "Exporting goods abroad requires a specialized approach. We help you efficiently organize the export customs processing, ensuring compliance with all regulations and international standards. Your export will be processed quickly, reliably, and without unnecessary hassle.",
     },
     about: {
       title1: "Home",
@@ -141,6 +153,19 @@ const messages = {
       title34: "Химическая промышленность (сера, мочевина, полипропилен)",
       title35: "Текстиль",
       title36: "Продукты питания",
+      title37: "Что мы делаем?",
+      title38:
+        "Наша компания — ваш надежный партнер в мире логистики. Мы предоставляем комплексные услуги для обеспечения успешного завершения всех этапов таможенного оформления и транспортировки.",
+      title39: "1. Таможенное оформление — Простота в деталях",
+      title40:
+        "Мы понимаем, как сложно ориентироваться в сложностях таможенных процедур. Именно поэтому мы берем на себя все задачи, связанные с таможенным оформлением — от подготовки документов до взаимодействия с таможенными органами. Вы можете быть уверены, что ваш груз будет обработан быстро, легально и экономично.",
+      title41: "2. Декларация — Точность и профессионализм",
+      title42:
+        "Таможенная декларация — ключевой компонент успешной логистики. Мы обеспечиваем не только точную подготовку всех необходимых документов, но и их своевременную подачу. Благодаря нашему опыту вы сможете избежать лишних вопросов со стороны таможенных органов и минимизировать потенциальные риски.",
+      title43:
+        "3. Таможенное оформление на экспорт — Беспрепятственный экспорт",
+      title44:
+        "Экспорт товаров за границу требует специализированного подхода. Мы помогаем вам эффективно организовать экспортное таможенное оформление, обеспечивая соблюдение всех норм и международных стандартов. Ваш экспорт будет обработан быстро, надежно и без лишних хлопот.",
     },
     about: {
       title1: "Главная",
@@ -225,6 +250,18 @@ const messages = {
       title34: "Himiýa senagaty (gümüş, üre, polipropilen)",
       title35: "Tekstiller",
       title36: "Azyk önümleri",
+      title37: "Biz näme edýäris?",
+      title38:
+        "Biziň kompaniýamyz logistikanyň dünýäsi üçin ygtybarly hyzmatdaş. Biziň maksadymyz müşderilere gümrük amallarynyň we transport prosesleriniň ähli basgançaklaryny rahat we takyk amala aşyrmaga kömek bermek.",
+      title39: "1. Gümrük amallary — Anyklyk we aňsatlyk",
+      title40:
+        "Gümrük amallary bilen baglanyşykly çylşyrymly meseleleri çözmegiň nähili kyn bolup biljekdigini bilýäris. Şonuň üçin resminamalary taýýarlamakdan başlap, gümrük edaralary bilen aragatnaşyk gurmaga çenli ähli meseleleri öz üstümize alýarys. Harytlaryňyz çalt, kanuny we tygşytly işleniler.",
+      title41: "2. Deklarasiýa — Takyklyk we hünär ussatlygy",
+      title42:
+        "Gümrük deklarasiýasy üstünlikli logistikanyň esasy bölegidir. Biziň hyzmatlarymyz diňe bir resminamalaryň dogry taýýarlanmagyny däl, eýsem wagtynda tabşyrylmagyny hem üpjün edýär. Bilermenlerimiziň kömegi bilen gümrük soraglaryndan we töwekgelçiliklerden uzakda durarsyňyz.",
+      title43: "3. Eksport gümrük işlenmesi — Çäksiz eksport",
+      title44:
+        "Harytlary daşary ýurtlara eksport etmek ýörite çemeleşmäni talap edýär. Biz eksport işlenişini täsirli gurmaga, düzgünlere we halkara standartlaryna laýyklykda iş alyp barmaga kömek edýäris. Eksport prosesiňiz çalt, ygtybarly we bökdençsiz amala aşyrylar.",
     },
     about: {
       title1: "Baş sahypa",

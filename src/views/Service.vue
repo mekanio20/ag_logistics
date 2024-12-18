@@ -156,7 +156,7 @@
                     <div class="lg:w-1/2">
                         <ul class="space-y-4 text-gray-700">
                             <li v-for="(service, index) in services[this.$i18n.locale]" :key="index" class="flex items-start">
-                                <span class="text-red-500 mr-2">◆</span>
+                                <span class="text-blue-500 mr-2">◆</span>
                                 <p class="leading-relaxed font-poppins font-normal lg:text-xl sm:text-lg text-base dark:text-white">
                                     {{ service }}
                                 </p>
